@@ -8,7 +8,7 @@
 
 ## Solution
 
-> To start with this task, we want binary-classifier ML algorithm to make a model as the target outcome is (Y) Approved & (N) Not Approved. I have used Binary Logistic Regression here because of multiple reasons,(1) As it satisfies its assumptions like dependent variable should be binary (obviously), little or no multicollinearity among the independent variables.(2) Easier to implement, interpret and very efficient to train. (3) Less prone to overfitting, but can show overfitting in high dimensions - but their are solutions like to use regularization L1 ,L2 to avoid overfitting in this cases.
+> To start with this task, we want binary-classifier ML algorithm to make a model as the target outcome is (Y) Approved & (N) Not Approved. I have used Binary Logistic Regression here because of multiple reasons : (1) As it satisfies its assumptions like dependent variable should be binary (obviously), little or no multicollinearity among the independent variables. (2) Easier to implement, interpret and very efficient to train. (3) Less prone to overfitting, but can show overfitting in high dimensions - but their are solutions like to use regularization L1 ,L2 to avoid overfitting in this cases.
 > There are no specific/fixed steps to solve the task, as it totally depends on the data (what your data needs should be done), but there is ofcourse some process flow to solve / or to build a ML model which I have mentioned below and what particulary I have done in each step.  
 
 ### Step 1
@@ -39,8 +39,8 @@
 
 ## Mathematical Working of Logistic Regression
 
-To know the maths behind the Logistic Regression - visit to ny site (link below)
-<a>Maths Behind Logistic Regression</a>
+>To know the maths behind the Logistic Regression - visit to my site (link below) 
+><a>Maths Behind Logistic Regression</a>
 ---
 
 ## Contact
