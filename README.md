@@ -103,8 +103,8 @@ $ bower install
 
 Reach out to me at one of the following places!
 
-- Website at <a href="https://sites.google.com/view/sonvanebhargav/home" target="_blank">`Website`</a>
-- LinkedIN at <a href="https://linkedin.com/in/bhargav-sonvane-15978a185" target="_blank">`LinkedIN`</a>
+- <a href="https://sites.google.com/view/sonvanebhargav/home" target="_blank">`My Portfolio Site`</a>
+- <a href="https://linkedin.com/in/bhargav-sonvane-15978a185" target="_blank">`My LinkedIN`</a>
 
 
 ---
