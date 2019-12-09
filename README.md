@@ -1,8 +1,4 @@
-<a href="http://fvcproductions.com"><img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjy3LKE-KfmAhXbxTgGHVQoClwQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FAn-illustration-of-the-signal-processing-in-a-sigmoid-function_fig2_239269767&psig=AOvVaw0QRjTFMbQVPk08U5u_WWVf&ust=1575959293025546" title="FVCproductions" alt="FVCproductions"></a>
-
-<!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
-
-***INSERT GRAPHIC HERE (include hyperlink in image)***
+![](sigmoid.png)
 
 # Loan Prediction Using Logistic Regression
 
