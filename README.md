@@ -3,10 +3,12 @@
 # Loan Prediction Using Logistic Regression
 
 ---
+## Problem Statement
+> The data is about loan applicants & their details required for applying a loan. So the task is to make a ML model to predict the future bank customers/loan applicants' loan approval status.
 
-## Contributing
+## Solution
 
-> To get started...
+> To start with this task, we want binary-classifier ML algorithm to make a model as the target outcome is (Y) Approved & (N) Not Approved. I have used Binary Logistic Regression here because of multiple reasons,(1) As it satisfies its assumptions like dependent variable should be binary (obviously), little or no multicollinearity among the independent variables.(2) Easier to implement, interpret and very efficient to train. (3) Less prone to overfitting, but can show overfitting in high dimensions - but their are solutions like to use regularization L1 ,L2 to avoid overfitting in this cases.
 
 ### Step 1
 
